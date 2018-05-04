@@ -1,0 +1,3 @@
+﻿  源.cpp
+e:\2017-ds\delete_min\delete_min\源.cpp(49): error C2440: “return”: 无法从“LinkList *”转换为“LinkList”
+  e:\2017-ds\delete_min\delete_min\源.cpp(49): note: 无构造函数可以接受源类型，或构造函数重载决策不明确

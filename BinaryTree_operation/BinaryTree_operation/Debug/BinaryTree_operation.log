@@ -1,0 +1,6 @@
+﻿  源.cpp
+e:\2017-ds\binarytree_operation\binarytree_operation\源.cpp(170): warning C4101: “p”: 未引用的局部变量
+e:\2017-ds\binarytree_operation\binarytree_operation\源.cpp(170): warning C4101: “lp”: 未引用的局部变量
+e:\2017-ds\binarytree_operation\binarytree_operation\源.cpp(170): warning C4101: “rp”: 未引用的局部变量
+  BinaryTree_operation.vcxproj -> E:\2017-DS\BinaryTree_operation\Debug\BinaryTree_operation.exe
+  BinaryTree_operation.vcxproj -> E:\2017-DS\BinaryTree_operation\Debug\BinaryTree_operation.pdb (Full PDB)
